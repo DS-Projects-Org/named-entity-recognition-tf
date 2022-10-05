@@ -27,3 +27,11 @@ the used network is a simple Bi-Directional LSTM build with tensorflow keras
 functional API with the below architecture.
 
 ![model](./model.png)
+
+## Notebook content
+
+The notebook is divided into sections:
+
+1. Data Exploration
+2. Data visualization
+3. Modeling
